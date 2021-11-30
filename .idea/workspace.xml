@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4e0c45-84f1-49f5-8017-ac3655d5ade8" name="Changes" comment="" />
+    <list default="true" id="cf4e0c45-84f1-49f5-8017-ac3655d5ade8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,24 +21,51 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="21cxzR6W793U1NVIrzej6bSgbmZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.PatternMatchMultiple">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+      <recent name="$PROJECT_DIR$/src/main/scala/pattern-multiple" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PatternMatch">
     <configuration name="PatternMatch" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="PatternMatch" />
       <module name="TreeToaster" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternMatchMultiple (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.PatternMatchMultiple" />
+      <module name="TreeToaster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -49,8 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PatternMatchMultiple" />
         <item itemvalue="Application.PatternMatch" />
+        <item itemvalue="Application.PatternMatchMultiple" />
+        <item itemvalue="Application.PatternMatchMultiple (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -62,12 +93,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638254440518</updated>
-      <workItem from="1638254442535" duration="10919000" />
+      <workItem from="1638254442535" duration="14164000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -75,7 +120,7 @@
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/main/scala/PatternMatch.scala</url>
           <line>67</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
