@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf4e0c45-84f1-49f5-8017-ac3655d5ade8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/PatternMatch.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/PatternMatch.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638254440518</updated>
-      <workItem from="1638254442535" duration="14164000" />
+      <workItem from="1638254442535" duration="14466000" />
     </task>
     <servers />
   </component>
@@ -119,7 +120,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="scala-line">
           <url>file://$PROJECT_DIR$/src/main/scala/PatternMatch.scala</url>
-          <line>67</line>
+          <line>68</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>

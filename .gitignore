@@ -7,7 +7,9 @@ project/plugins/project/
 .history
 .cache
 .lib/
-.idea/*
+
 ### Scala ###
 *.class
 *.log
+/.idea/
+/.idea/

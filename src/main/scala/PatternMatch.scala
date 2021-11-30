@@ -6,6 +6,7 @@ class Node(var data: Int,
            var left: Node,
            var right: Node) {
   def this(data: Int) {
+
     this(data, null, null);
   }
 }
