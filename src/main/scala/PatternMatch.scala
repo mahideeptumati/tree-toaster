@@ -22,7 +22,7 @@ class Tree() {
     }
     if (pattern.length ==1 ){
       if(node.data == pattern(newIndex))
-      patternMatches += true;
+        patternMatches += true;
     }
     else if (newIndex == pattern.length - 1 || (node.left == null && node.right == null && newIndex == pattern.length - 1)) {
       patternMatches += true;
@@ -67,10 +67,10 @@ object PatternMatch {
 
   def main(args: Array[String]): Unit = {
 
-//                0
-//         1              0
-//    0        1       0
-//       1   0   0
+    //                0
+    //         1              0
+    //    0        1       0
+    //       1   0   0
 
     var root = new Node(0)
     root.left = new Node(1)
